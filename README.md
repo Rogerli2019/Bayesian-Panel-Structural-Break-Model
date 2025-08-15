@@ -1,1 +1,1 @@
-This code replicates the Reverse Jump MCMC procedure of Simon Smith and Allan Timmermann. I replicate their methods perfectly in coefficients however the detection of the break in the variance is not perfect. 
+This code replicates the Reverse Jump MCMC procedure of Simon Smith and Allan Timmermann. I replicate their methods perfectly in coefficients however the detection of the break in the variance is not perfect. Please contact me if you found mistakes or some improvement advice! - Roger Li
